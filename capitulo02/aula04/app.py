@@ -5,8 +5,8 @@ condition_a = not (number_a > number_b)
 condition_b = not (number_a < number_b)
 condition_c = not var_true
 condition_d = not var_false
-condition_e = number_b % 2 == 0 and number_d %  2 == 0
-condition_f = number_c % 2 == 0 and number_d %  2 == 0
+condition_e = number_b % 2 == 0 and number_d % 2 == 0
+condition_f = number_c % 2 == 0 and number_d % 2 == 0
 condition_g = number_a > number_e or number_e == 1
 condition_h = number_e > number_a or number_e == 10
 condition_i = number_a > number_e or number_e == 10
